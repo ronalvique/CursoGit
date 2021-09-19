@@ -20,3 +20,11 @@ body
 {
     font-size: 20px;
 }
+
+#cabecera{
+    background-color: purple;
+    color:white;
+    font-size: 18px;
+    height: 50px;
+
+}
